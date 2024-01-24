@@ -2,7 +2,7 @@
 
 ## Installation
 
-Markdown Editor [Node.js](https://nodejs.org/) to run.
+Markdown Editor requirs [Node.js](https://nodejs.org/) to run.
 
 Install the dependencies and devDependencies and start the server.
 
