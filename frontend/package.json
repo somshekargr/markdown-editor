@@ -1,0 +1,44 @@
+{
+  "name": "frontend-markdown",
+  "version": "0.1.0",
+  "private": true,
+  "license": "ISC",
+  "author": "somshekar",
+  "dependencies": {
+    "@github/markdown-toolbar-element": "latest",
+    "bootstrap": "latest",
+    "js-file-download": "latest",
+    "react": "latest",
+    "react-autosize-textarea": "latest",
+    "react-bootstrap": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "remarkable": "latest",
+    "socket.io-client": "latest",
+    "web-vitals": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
